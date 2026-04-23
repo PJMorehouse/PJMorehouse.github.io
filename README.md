@@ -8,3 +8,7 @@ Ph.D. candidate at Howard University with a focus on health communications. Grad
 
 - **Email:** [parker.jessie@bison.howard.edu](mailto:parker.jessie@bison.howard.edu)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/plivjessie/)
+---
+### Quick Links
+
+- [Resume / CV](./resume.html)
