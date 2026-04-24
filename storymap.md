@@ -1,4 +1,4 @@
-# Insured but Not Protected: ## A Countermapping Analysis of Prescription Access in the U.S.
+# Insured but Not Protected: A Countermapping Analysis of Prescription Access in the U.S.
 
 This project examines how insurance policies and structural factors contribute to delays in accessing prescription medication. Many individuals face delays in obtaining prescription medication, even with insurance. These delays are shaped by income, insurance type, and policy structures.
 
