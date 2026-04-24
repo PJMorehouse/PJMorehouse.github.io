@@ -7,7 +7,7 @@ Ph.D. candidate at Howard University with a focus on health communications. Grad
 This portfolio showcases my research throughought my graduate studies.
 
 ### Statistics
-[View Statistical Analysis](https://nb.anaconda.com/jupyterhub/user/bc1fd36b-75d6-4972-ad4f-bddfc26024d5/lab/tree/statistical_analysis.ipynb?)
+[View Statistical Analysis](https://github.com/PJMorehouse/pjmorehouse.github.io/blob/main/Statistical_Analysis_Data_Preparation_Project)
 
 ### Machine Learning
 [View Machine Learning Models](https://github.com/PJMorehouse/pjmorehouse.github.io/blob/main/Machine_Learning_Project)
