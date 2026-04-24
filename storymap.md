@@ -24,6 +24,7 @@ A closer look shows that stronger protections are concentrated in the Northeast,
 
 The Access Barrier Index captures the number of challenges individuals face when trying to access prescription medication. Scores range from 0 to 4, with higher values indicating more barriers.
 
+![Access Barrier Index] (images/barrierindex.png)
 ---
 
 ## Findings
